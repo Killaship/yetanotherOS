@@ -10,7 +10,9 @@ OSdev 2: gcc-erroring boogaloo. That's it. I just want the OS to get past being 
 
 1. Not fail
 2. a working memory manager
-3. program loading via grub modules
-4. elf support
+3. program loading
+4. elf or some other executable format support
 5. filesystem of some kind
 6. userland and syscalls
+
+(these goals may or may not be in chronological order.)
